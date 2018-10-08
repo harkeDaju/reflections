@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Since, only the parts that were different wer shown, I was able scan for 
+	changes much faster.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I can easily find and revert the changes much faster.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Auto saving can end up making too many versions of the code. Unfinished 
+	code can end up being committed. Manual committing prevents that. On the
+	other hand, manual committing can make a commit too large and commits may
+	not be logically grouped together.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git allows saving multiple files in one commit so to allow the programmer 
+	to later find all the changes that were made when a particular feature was 
+	created or when looking for changes to fix a bug. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The command git log can be used to see the history of all the changes that
+	have been made. 
+	The command git diff can be used to find the difference between two commits.
+	To escape both the commands, press 'q'.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    With version control there is an option of going back to the commit where 
+	the program was working. So, even if a bug was introduced, you can go back
+	to the version where the program worked and then also find the version where
+	the program broke.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I will be using Git for maintaining version control of my files. This 
+	control will provide me with the freedom to change the content of the files
+	without fear of losing the older stable versions.
