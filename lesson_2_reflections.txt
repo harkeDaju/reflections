@@ -11,3 +11,11 @@ repository? What value do you think it offers?
 	the repository. This is the area when you collect all the files that you 
 	want to commit. It helps to put all the related changes in different files
 	in one common commit.
+	
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+	The files to be committed to the repository, first needs to be staged in  
+	the staging area. Using the staging area we can just stage only those files 
+	pertaining to a single logical change. This way we can ensure one commit 
+	per logical change.
