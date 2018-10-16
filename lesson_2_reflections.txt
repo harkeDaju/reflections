@@ -19,3 +19,10 @@ change?
 	the staging area. Using the staging area we can just stage only those files 
 	pertaining to a single logical change. This way we can ensure one commit 
 	per logical change.
+	
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+	If we wanted to experiment a feature but not affect the master or wanted 
+	different versions of the master without affecting it then in these 
+	situations branches would be helpful in keeping the history organized.
