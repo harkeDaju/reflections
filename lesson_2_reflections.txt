@@ -26,3 +26,9 @@ organized? How would branches help?
 	If we wanted to experiment a feature but not affect the master or wanted 
 	different versions of the master without affecting it then in these 
 	situations branches would be helpful in keeping the history organized.
+	
+How do the diagrams help you visualize the branch structure?
+
+	The diagrams helps us to find where exactly the branches started and till
+	what point they had similarities. The diagram also helps to find unreachable
+	commits. It helps to visualize the reachability of the commits.
