@@ -42,3 +42,13 @@ the diagram the way we do?
 	parent branches as its parent commits. The new branch will then take the 
 	name of the branch which is being merged to. This is the reason why the
 	merging is represented in the diagram the way it is.
+	
+What are the pros and cons of Git's automatic merging vs. always doing merge 
+manually?
+	
+	Git's automatic merging helps in saving time to merge two branches. But if
+	a conflict arises - which usually happens when the same parts of the file
+	are modified by more than one party, then those parts of the file have to  
+	be resolved manually. Allowing git to merge those files which have conflict 
+	may give rise to unwanted changes as git is not sufficiently intelligent 
+	enough resolve conflicts.
