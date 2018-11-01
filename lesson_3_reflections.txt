@@ -1,0 +1,5 @@
+When would you want to create a remote repository rather than keeping all you work local?
+
+  Whenever we want to backup our files into a central repository from where they can be 
+  accessed from any other machines or by other contributors, we choose a remote repository
+  over a local one.
